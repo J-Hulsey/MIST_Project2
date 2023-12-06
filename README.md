@@ -32,7 +32,7 @@ MIST 4610 9:35-10:50 Group 9
 ### QUESTION: 
 Is there a correlation between newer PHEV and BEV car models and longer electric car ranges? And if so, how significant is that correlation?
 
-### SIGNIFIGANCE: 
+### SIGNIFICANCE: 
 
 ### GRAPH
 <img width="624" alt="AvgRangeBy Year" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/e523276f-b4bf-4d67-8a8a-17866cbaeadd">
@@ -46,8 +46,8 @@ After viewing the results of the first diagram, we filtered the data to include 
 ### QUESTION: 
 "Which make of car has the highest rate of purchase for each type of electric vehicle in Washington?"
 
-### SIGNIFIGANCE: 
-This question and the relevant data are signifigant as it allows one to understand who the market leaders are for both PHEV's and BEV's. By understanding who the market leaders are in the electric car market, consumers can make more informed decisions on what kind of electric vehicle to purchase. In the mind of many consumers, BEV's and PHEV's with more marketshare maybe better options than BEV's and PHEV's with less marketshare as there must be a reason that more of one kind of car is bought over others. 
+### SIGNIFICANCE: 
+This question and the relevant data are significant as they allow one to understand who the market leaders are for both PHEVs and BEVs. By understanding who the market leaders are in the electric car market, consumers can make more informed decisions on what kind of electric vehicle to purchase. In the mind of many consumers, BEVs, and PHEVs, with more market share may be better options than BEVs and PHEVs with less market share as there must be a reason that more of one kind of car is bought over others. 
 
 ### PHEV's:
 
@@ -63,7 +63,7 @@ This question and the relevant data are signifigant as it allows one to understa
 <img width="625" alt="BEV Heat" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/748ac9a2-1c8f-40ba-84a8-b823729e8006">
 
 # MANIPULATIONS
-We did not manipulate any raw data, but we did apply measurable functions to certain columns. For example, we applied the count function to "Electric Vehicle Range" in Q1 in order to show the number of EV types and discrepancies between EV makes. Also, we applied the average function to "Electric Range '' in Q2 to set a standard for comparing the electric range year-after-year in the graph. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
+We did not manipulate any raw data, but we did apply measurable functions to certain columns. For example, we applied the count function to "Electric Vehicle Range" in Q1 in order to show the number of EV types and discrepancies between EV makes. Also, we applied the average function to "Electric Range '' in Q2 to set a standard for comparing the electric range year after year in the graph. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
 
 # TABLEAU PACKAGED WORKBOOK
 The Tableau Packaged Workbook featuring these graphs and the dataset is attached in the repository.
