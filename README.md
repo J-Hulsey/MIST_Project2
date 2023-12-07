@@ -25,7 +25,7 @@ MIST 4610 9:35-10:50 Group 9
    REPO: https://github.com/purwplhaze/mist4610_project1
 
 # DESCRIPTION OF DATASET
-
+This dataset represents Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV) that are currently registered through the Washington Department of Licensing. We obtained the dataset from the website provided: (https://catalog.data.gov/dataset/electric-vehicle-population-data). The varying data types include the make and model of the car, VIN number, and electric vehicle type; these data types are strings. Numeric measurements such as the electric vehicle range and base MSRP are of datatype number(whole), with the date of the model of the car being of datatype date & time. This dataset helps us depict the reality of electric vehicles within the state of Washington within the period of 1997 to the present day and draw conclusions for consumers based upon this dataset.
 
 # QUESTION 1
 
