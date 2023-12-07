@@ -68,7 +68,7 @@ This question and the relevant data are significant as they allow one to underst
 <img width="625" alt="BEV Heat" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/748ac9a2-1c8f-40ba-84a8-b823729e8006">
 
 # MANIPULATIONS
-We did not manipulate any raw data, but we did apply measurable functions to certain columns. For example, we applied the count function to "Electric Vehicle Range" in Q1 in order to show the number of EV types and discrepancies between EV makes. Also, we applied the average function to "Electric Range '' in Q2 to set a standard for comparing the electric range year after year in the graph. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
+We did not manipulate any raw data, but we did filter out irrelevant data and apply measurable functions to certain columns. In Q1, we filtered data to only include the top 20 makes of EVs with model year 2008 or later. We also applied the average function to "Electric Range" in order to set a standard for comparing the electric range of electric vehicle types year after year. For Q2, we applied the count function to "Electric Vehicle Type" in order to compare the amount of EV types manufactured for each make. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
 
 # TABLEAU PACKAGED WORKBOOK
 The Tableau Packaged Workbook featuring these graphs and the dataset is attached to the repository.
