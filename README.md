@@ -60,12 +60,17 @@ This question and the relevant data are significant as they allow one to underst
 
 <img width="622" alt="PHEV Pie" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/4ed587df-8491-447f-a16e-983c7dbee0e2">
 
+The market disparity for PHEVs or Plug-in Hybrid Electronic Vehicles is fairly balanced. While observing the pie graph, it is easy to understand the level of this balance, as no piece of the pie graph is visually observable as unordinary or larger than the others. On the heat chart, we are able to get a much deeper insight into the specificity of this balance, as "TOYOTA" holds a slim margin of a lead over other brands such as "CHEVROLET", "BMW", and "JEEP".
 
 ### BEV's:
 
 <img width="623" alt="BEV Pie" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/76780a04-01aa-4f3e-afdf-5b222d79e996">
 
 <img width="625" alt="BEV Heat" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/748ac9a2-1c8f-40ba-84a8-b823729e8006">
+
+The market disparity for BEVs or Battery Electric Vehicle is wildly dissimilar to the disparity of PHEVs, as easily displayed by the pie graph. Upon initial glance, it is easy to see the wide margin that "TESLA" holds over its competitors, as shown by the tannish color piece of pie that takes up > 50%. When we look at the heat chart, we can easily observe the margin of lead that "TESLA" holds over the next most dominant brand ("NISSAN"), but can tell that the margin is nearly 4 times as much.
+
+From these four graphs, we are not only able to develop a deep understanding of the market that exists in the state of Washington for Battery Electric Vehicle and Plug-in Hybrid Electronic Vehicles individually, but we are also able to draw conclusions about the overall size of the market. From the heat charts, we are able to conclude that the market for "TESLA's" BEVs is larger than the entire market for PHEVs. From the pie graphs, we are able to conclude that the market for "TESLA's" BEVs are comparatively larger in the BEV market than "CHEVROLET", "CHRYSLER", "BMW", "FORD", and "JEEP" are combined in the PHEV market.
 
 # MANIPULATIONS
 We did not manipulate any raw data, but we did filter out irrelevant data and apply measurable functions to certain columns. In Q1, we filtered data to only include the top 20 makes of EVs with model year 2008 or later. We also applied the average function to "Electric Range" in order to set a standard for comparing the electric range of electric vehicle types year after year. For Q2, we applied the count function to "Electric Vehicle Type" in order to compare the amount of EV types manufactured for each make. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
