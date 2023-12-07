@@ -34,12 +34,12 @@ Is there a correlation between newer PHEV and BEV car models and longer electric
 
 ### SIGNIFICANCE: 
 The general significance of this question lies with the consumer in the electric vehicle market, especially in areas similar to the state of Washington. The answer to this question provides potential consumers with information regarding the relationship between newer car models and electric car ranges among Plug-in Hybrid Electric Vehicles (PHEV) and Battery Electric Vehicles (BEV). Depending on which car model the consumer prefers, this information would help them consider if purchasing a newer car model will generally lead to improved range on their vehicle.
-### GRAPH 1
+
 ![image](https://github.com/Justn7ime/MIST-Project-2/assets/148248332/294b61f2-c10e-4840-9624-2d8c6b391168)
 
 After analyzing the average electric range of cars from this dataset by manufacturing year and type, we can infer that there is a significant increase in the electric range of Battery Electric Vehicle (BEV) models created from 2000 to 2010 of over 240 miles on average. Post 2010 there was actually a sharp decline in average electric range temporarily, with a steady recovery to the rate we saw in 2010 models. We can also see that by 2020, the average electric range of new BEVs surpassed that of any year in Washington. Also included and labeled in orange are Plug-in Hybrid Electric Vehicles (PHEV). Although we want to focus on the fully electric cars labeled in blue, it is interesting to note that the average electric range of hybrids also declined for models after 2010 yet did not experience the same recovery in the 2020 model in the state.
 
-### GRAPH 2
+
 <img width="624" alt="AvgRangeBy Year" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/e523276f-b4bf-4d67-8a8a-17866cbaeadd">
 
 
